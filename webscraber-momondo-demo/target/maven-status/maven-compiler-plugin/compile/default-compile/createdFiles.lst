@@ -1,0 +1,7 @@
+webscraper/TagCounter.class
+rest/WebScraperResource.class
+webscraper/TagDTO.class
+webscraper/Tester.class
+webscraper/GetTagDTO.class
+webscraper/TagDTOs.class
+rest/ApplicationConfig.class
